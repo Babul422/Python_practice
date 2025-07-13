@@ -1,0 +1,33 @@
+1# Store your name in a variable and print it
+name = "Babul"
+print(name)
+
+2)# Store two numbers in variables and print their sum
+x = 10
+y = 20
+sum = x + y
+print("Sum:", sum)
+
+3)# Store a float value in a variable and print its type
+price = 3.14
+print(type(price))
+
+4)# Create a boolean variable and print it
+is_human = True
+print(is_human)
+
+5)# Trying to add a string and a number
+text = "Hello"
+num = 5
+result = text + num  # ❌ This will cause an error
+
+print(result)
+
+6)# Assign an integer to a variable, then assign a string
+data = 100
+print(data)   # First print (integer)
+
+data = "Python"
+
+print(data)   # Second print (string)
+#End
